@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    padding-bottom: 5px;
+    margin-bottom: 0;
+}
+
+.score {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.footer {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+    
+}
